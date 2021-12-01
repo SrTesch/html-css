@@ -1,0 +1,18 @@
+
+body{
+    background-image: linear-gradient(to right, #FFEBCF, #AD916A);
+}
+h1{
+    color: #AF926B;
+    text-align: center;
+    text-shadow: 2px 2px 2px #292219dc;
+}
+
+h2{
+    color: #588DAD;
+    text-shadow: 1px 1px 2px #36576b;
+}
+
+p{
+    text-align: justify;
+}

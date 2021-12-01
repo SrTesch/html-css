@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a{
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited{
+            color: darkred;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+
+        .especial::after{
+            content: ' Sou lindo';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/SrTesch" target="_blank" rel="external">Repositório github</a></li>
+
+        <li><a href="https://twitter.com/TeschDev" target="_blank" rel="external" class="especial">Conta do twitter</a></li>
+
+        <li><a href="https://www.instagram.com/peeh_tesch/" target="_blank" rel="external">Conta do instagram</a></li>
+    </ul>
+</body>
+</html>
