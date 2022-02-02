@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(120, 138, 117), #217a21);
+}
+
+.fog{
+    font-size: 3em;
+    color: #195c19;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.575);
+}
+
+img{
+    margin-bottom: 50px;
+}
