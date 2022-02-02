@@ -10,5 +10,5 @@ body{
 }
 
 img{
-    margin-bottom: 50px;
+    max-width: 100vh;
 }
