@@ -1,0 +1,10 @@
+div#ertida{
+    position: relative;
+    top: 70vh;
+    color: rgb(34, 34, 34);
+    font-size: 2em;
+}
+
+span{
+    color: white;
+}
